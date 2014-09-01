@@ -1,0 +1,62 @@
+
+ do_order::Array
+(
+    [customer_id] => 79
+    [o_number] => 20140617792634
+    [first-name] => 123
+    [last-name] => 34234
+    [quantity] => 1
+    [departing_date] => 2014-06-25
+    [departing_time] => 5:30pm
+    [is_transfer] => 0
+    [only_tran] => 0
+    [tran_line] => 0
+    [send_site] => web
+    [barcode] => 
+    [depart_on_bus] => 146
+    [depart_off_bus] => 48
+    [from_station_id] => 46
+    [to_station_id] => 27
+    [seat_NO] => 3
+    [send_time] => 1402981898
+    [line_id] => 13
+    [pay_price] => 0.01
+)
+
+ OID:98+++CID:79
+ payment:User:Array
+(
+    [first-name] => John
+    [last-name] => yang
+    [address] => 123 Main Street
+    [address2] => Street
+    [city] => Boston
+    [state] => AK
+    [zipcode] => 02142
+    [country] => US
+    [tel] => 234234
+    [email] => 1315068148@qq.com
+    [username] => weichuangba11o@qq.com
+    [password] => 4297f44b13955235245b2497399d7a93
+    [id] => 79
+)
+
+ OID:20140617792634
+ complete:User:Array
+(
+    [first-name] => John
+    [last-name] => yang
+    [address] => 123 Main Street
+    [address2] => Street
+    [city] => Boston
+    [state] => AK
+    [zipcode] => 02142
+    [country] => US
+    [tel] => 234234
+    [email] => 1315068148@qq.com
+    [username] => weichuangba11o@qq.com
+    [password] => 4297f44b13955235245b2497399d7a93
+    [id] => 79
+)
+
+ OID:20140617792634

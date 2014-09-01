@@ -1,0 +1,9 @@
+
+ response_code:1
+ transaction_id:6185330875 
+ new_akai_transaction_key Value:8f24756aa3dce4e342b60cdf313fb9eed453b57c7c7d04ec444a2b6037ed3182 
+ oid = 20140519267325
+ response_code:1
+ transaction_id:6185330875 
+ new_akai_transaction_key Value:8f24756aa3dce4e342b60cdf313fb9eed453b57c7c7d04ec444a2b6037ed3182 
+ oid = 20140519267325

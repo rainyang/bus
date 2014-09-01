@@ -1,0 +1,252 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 22
+            [customer_id] => 18
+            [o_number] => 20140422186634
+            [from_station_id] => 24
+            [to_station_id] => 23
+            [seat_NO] => 36
+            [barcode] => 
+            [send_time] => 1398152771
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 1
+            [pay_price] => 0.10
+            [is_sendmail] => 0
+            [first-name] => YUJUAN
+            [last-name] => WU
+            [departing_date] => 2014-04-23
+            [departing_time] => 9:30am
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 21
+            [depart_off_bus] => 20
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-04-22 00:46:11
+            [transaction_id] => 6113091795
+            [line_id] => 13
+            [is_transfer] => 0
+            [only_tran] => 0
+            [tran_line] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 23
+            [customer_id] => 18
+            [o_number] => 20140422182869
+            [from_station_id] => 24
+            [to_station_id] => 23
+            [seat_NO] => 13
+            [barcode] => 
+            [send_time] => 1398153125
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 1
+            [pay_price] => 0.10
+            [is_sendmail] => 0
+            [first-name] => YUJUAN
+            [last-name] => WU
+            [departing_date] => 2014-04-23
+            [departing_time] => 9:30am
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 21
+            [depart_off_bus] => 20
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-04-22 00:52:05
+            [transaction_id] => 6113095702
+            [line_id] => 13
+            [is_transfer] => 0
+            [only_tran] => 0
+            [tran_line] => 0
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 24
+            [customer_id] => 26
+            [o_number] => 20140519267325
+            [from_station_id] => 27
+            [to_station_id] => 1
+            [seat_NO] => 70
+            [barcode] => 
+            [send_time] => 1400452847
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 2
+            [pay_price] => 108.00
+            [is_sendmail] => 0
+            [first-name] => Lanmei,Chunlin
+            [last-name] => Qu,Duan
+            [departing_date] => 2014-05-26
+            [departing_time] => 8:30pm
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 48
+            [depart_off_bus] => 89
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-05-18 15:40:46
+            [transaction_id] => 6185330875
+            [line_id] => 13|1
+            [is_transfer] => 1
+            [only_tran] => 0
+            [tran_line] => 13
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 24
+            [customer_id] => 26
+            [o_number] => 20140519267325
+            [from_station_id] => 27
+            [to_station_id] => 1
+            [seat_NO] => 70
+            [barcode] => 
+            [send_time] => 1400452847
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 2
+            [pay_price] => 108.00
+            [is_sendmail] => 0
+            [first-name] => Lanmei,Chunlin
+            [last-name] => Qu,Duan
+            [departing_date] => 2014-05-26
+            [departing_time] => 8:30pm
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 48
+            [depart_off_bus] => 89
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-05-18 15:40:46
+            [transaction_id] => 6185330875
+            [line_id] => 13|1
+            [is_transfer] => 1
+            [only_tran] => 0
+            [tran_line] => 13
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 26
+            [customer_id] => 28
+            [o_number] => 20140519285426
+            [from_station_id] => 27
+            [to_station_id] => 1
+            [seat_NO] => 6
+            [barcode] => 
+            [send_time] => 1400506156
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 2
+            [pay_price] => 108.00
+            [is_sendmail] => 0
+            [first-name] => Lanmei,Chunlin
+            [last-name] => Qu,Duan
+            [departing_date] => 2014-05-26
+            [departing_time] => 8:30pm
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 48
+            [depart_off_bus] => 89
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-05-19 06:29:17
+            [transaction_id] => 6186405425
+            [line_id] => 13|1
+            [is_transfer] => 1
+            [only_tran] => 0
+            [tran_line] => 13
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 26
+            [customer_id] => 28
+            [o_number] => 20140519285426
+            [from_station_id] => 27
+            [to_station_id] => 1
+            [seat_NO] => 6
+            [barcode] => 
+            [send_time] => 1400506156
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 2
+            [pay_price] => 108.00
+            [is_sendmail] => 0
+            [first-name] => Lanmei,Chunlin
+            [last-name] => Qu,Duan
+            [departing_date] => 2014-05-26
+            [departing_time] => 8:30pm
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 48
+            [depart_off_bus] => 89
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-05-19 06:29:17
+            [transaction_id] => 6186405425
+            [line_id] => 13|1
+            [is_transfer] => 1
+            [only_tran] => 0
+            [tran_line] => 13
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [id] => 26
+            [customer_id] => 28
+            [o_number] => 20140519285426
+            [from_station_id] => 27
+            [to_station_id] => 1
+            [seat_NO] => 6
+            [barcode] => 
+            [send_time] => 1400506156
+            [send_site] => web
+            [is_pay] => 1
+            [quantity] => 2
+            [pay_price] => 108.00
+            [is_sendmail] => 0
+            [first-name] => Lanmei,Chunlin
+            [last-name] => Qu,Duan
+            [departing_date] => 2014-05-26
+            [departing_time] => 8:30pm
+            [return_date] => 
+            [return_time] => 
+            [depart_on_bus] => 48
+            [depart_off_bus] => 89
+            [return_on_bus] => 
+            [return_off_bus] => 
+            [create_time] => 2014-05-19 06:29:17
+            [transaction_id] => 6186405425
+            [line_id] => 13|1
+            [is_transfer] => 1
+            [only_tran] => 0
+            [tran_line] => 13
+        )
+
+)

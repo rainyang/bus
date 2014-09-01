@@ -1,0 +1,7 @@
+.DS_Store
+.htaccess
+bus.sql
+database.php
+files/
+log/
+libs/config/
