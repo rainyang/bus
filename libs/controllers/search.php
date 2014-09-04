@@ -20,10 +20,10 @@ class Search extends CI_Controller {
     */
 
     //回答问题:CHICAGO
-    private $api_login_id = '9AbzzGM35X';
-    private $transaction_key = '2Tm7bWhM2b7765fX';
-    private $md5_setting = 'akai'; // Your MD5 Setting
-    private $host = 'http://www.akaiticket.com'; // Your MD5 Setting
+    private $api_login_id = 'xxx';
+    private $transaction_key = 'xxx';
+    private $md5_setting = 'xx'; // Your MD5 Setting
+    private $host = 'xxx'; // Your MD5 Setting
     private $isTestMode = 0;
     private $site = 0;
 
